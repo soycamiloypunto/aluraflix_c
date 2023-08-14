@@ -1,0 +1,144 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Cuándo usar let, var y const?",
+      "link_video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=3s",
+      "link_imagen": "https://i.ytimg.com/vi/PztCEdIJITY/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDJWqQzWreQLTp7q4esMjlV1roLTA",
+      "categoria": 1,
+      "descripcion": "Cuándo usar let, var y const?",
+      "codigo": 12345678
+    },
+    {
+      "id": "2",
+      "titulo": "Que es JavaScript?",
+      "link_video": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=2s",
+      "link_imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfCWN4npfWUBdrGczCKogB-Qvi1g",
+      "categoria": 1,
+      "descripcion": "Que es JavaScript?",
+      "codigo": 12345678
+    },
+    {
+      "id": "3",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=UuAX5azcvDQ&t=6s",
+      "link_imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrCt-PBwcf6kaY9dwPI0aJ78jXxQ",
+      "categoria": 2,
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "codigo": 12345678
+    },
+    {
+      "id": "4",
+      "titulo": "La magia detrás de Java #aluramás",
+      "link_video": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__3_.webp?updatedAt=1683420408396",
+      "categoria": 2,
+      "descripcion": "La magia detrás de Java #aluramás",
+      "codigo": 12345678
+    },
+    {
+      "id": "4",
+      "titulo": "Banco de datos MySQL Contenidos de ONE",
+      "link_video": "https://www.youtube.com/watch?v=8J0AoPZMVxA",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__2_.webp?updatedAt=1683420408360",
+      "categoria": 2,
+      "descripcion": "Banco de datos MySQL Contenidos de ONE",
+      "codigo": 12345678
+    },
+    {
+      "id": "5",
+      "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__5_.webp?updatedAt=1683420408323",
+      "categoria": 2,
+      "descripcion": "Spring Framework. ¿Qué es ? #AluraMás",
+      "codigo": 12345678
+    },
+    {
+      "id": "6",
+      "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__4_.webp?updatedAt=1683420408357",
+      "categoria": 2,
+      "descripcion": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "codigo": 12345678
+    },
+    {
+      "id": "7",
+      "titulo": "Que son las Soft Skills?",
+      "link_video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "link_imagen": "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDxc_0rcRKCUTqYZXq2YUcjczMJNg",
+      "categoria": 3,
+      "descripcion": "Que son las Soft Skills?",
+      "codigo": 12345678
+    },
+    {
+      "id": "9",
+      "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE&t=31s",
+      "link_imagen": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLApSY-UYiv7541vDw1U-p_iqiq-VA",
+      "categoria": 3,
+      "descripcion": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "codigo": 12345678
+    },
+    {
+      "id": "10",
+      "titulo": "Metodologías ágiles",
+      "link_video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "link_imagen": "https://i.ytimg.com/vi/6N3OkLCfK-0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHL_X4Hc7j2GSNcclFDT33KV5USQ",
+      "categoria": 3,
+      "descripcion": "Metodologías ágiles",
+      "codigo": 12345678
+    },
+    {
+      "id": "11",
+      "titulo": "Tips de para tener concentración en el Home Office #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=_zYbZ5S0VMw",
+      "link_imagen": "https://i.ytimg.com/vi/_zYbZ5S0VMw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97X7sFoJcMmeQL6LLg1Z9Ks-Smg",
+      "categoria": 3,
+      "descripcion": "Trabajando desde casa #aluramás",
+      "codigo": 12345678
+    },
+    {
+      "id": "12",
+      "titulo": "¿Por qué utilizar React?",
+      "link_video": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__9_.webp?updatedAt=1683420539407",
+      "categoria": 1,
+      "descripcion": "¿Por qué utilizar React?",
+      "codigo": 12345678
+    },
+    {
+      "id": "13",
+      "titulo": "Box Model y Box sizing #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=ts9qfCKamKg",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__7_.webp?updatedAt=1683420539290",
+      "categoria": 1,
+      "descripcion": "Box Model y Box sizing #AluraMás",
+      "codigo": 12345678
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Front End",
+      "descripcion": "Formación de Front End de Alura Latam",
+      "color": "#6bd1ff",
+      "codigo": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Back End",
+      "descripcion": "Formación de Back End de Alura Latam",
+      "color": "#00C86F",
+      "codigo": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Back End",
+      "descripcion": "Formación de metodologías ágiles de Alura Latam",
+      "color": "#FE8C2A",
+      "codigo": "3"
+    }
+  ]
+}
